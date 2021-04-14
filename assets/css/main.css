@@ -178,6 +178,7 @@ input, select, textarea {
 	}
 
 	p {
+		text-indent: 45px;
 		margin: 0 0 2em 0;
 	}
 
@@ -1821,7 +1822,7 @@ input, select, textarea {
 		}
 
 	.box {
-		border-color: rgba(255, 255, 255, 0.35);
+		border-color: rgba(163, 120, 120, 0.35);
 	}
 
 /* Button */
